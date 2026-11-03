@@ -1,8 +1,8 @@
-# W1_Blockchain_Transaction_Basics.md
+# W1_D1_Blockchain_Transaction_Basics
 
 ---
 
-## 一、 今日学到的 10 个核心概念
+## 一、 学到的核心概念
 
 1. **EOA（Externally-Owned Account，外部拥有账户）**：由私钥控制的普通用户账户，拥有 ETH 余额，可以主动发起交易。
 2. **Contract Account（合约账户）**：部署在以太坊网络上的智能合约代码，没有私钥，只能在接收到交易/消息调用时被动触发执行逻辑。
