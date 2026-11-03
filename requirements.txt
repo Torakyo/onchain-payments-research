@@ -1,0 +1,6 @@
+jupyterlab
+pandas
+requests
+duckdb
+python-dotenv
+plotly
